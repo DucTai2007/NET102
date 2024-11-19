@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 2\\B\u00E0i 1\\B\u00E0i 1 c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B791D12B-A928-4274-B7E5-3C94A39154C0}|B\u00E0i 1 c\\B\u00E0i 1 c.csproj|d:\\l\u1EADp tr\u00ECnh\\visual studio\\c#\\lab 2\\b\u00E0i 1\\b\u00E0i 1 c\\b\u00E0i 1 c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791D12B-A928-4274-B7E5-3C94A39154C0}|B\u00E0i 1 c\\B\u00E0i 1 c.csproj|solutionrelative:b\u00E0i 1 c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 2\\B\u00E0i 1\\B\u00E0i 1 c\\B\u00E0i 1 c\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1 c\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 2\\B\u00E0i 1\\B\u00E0i 1 c\\B\u00E0i 1 c\\Program.cs",
+              "RelativeToolTip": "B\u00E0i 1 c\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:12:18.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

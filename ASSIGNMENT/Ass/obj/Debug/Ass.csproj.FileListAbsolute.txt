@@ -1,0 +1,7 @@
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\bin\Debug\Ass.exe.config
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\bin\Debug\Ass.exe
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\bin\Debug\Ass.pdb
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\obj\Debug\Ass.csproj.AssemblyReference.cache
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\obj\Debug\Ass.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\obj\Debug\Ass.exe
+D:\Lập Trình\Visual Studio\C#\ASSIGNMENT\Ass\Ass\obj\Debug\Ass.pdb

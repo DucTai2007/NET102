@@ -1,0 +1,2 @@
+ClassId: Class1, AverageMark: 7
+ClassId: Class2, AverageMark: 9

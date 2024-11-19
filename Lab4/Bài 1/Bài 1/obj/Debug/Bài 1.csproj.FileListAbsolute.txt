@@ -1,0 +1,7 @@
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\bin\Debug\Bài 1.exe.config
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\bin\Debug\Bài 1.exe
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\bin\Debug\Bài 1.pdb
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\obj\Debug\Bài 1.csproj.AssemblyReference.cache
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\obj\Debug\Bài 1.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\obj\Debug\Bài 1.exe
+D:\Lập Trình\Visual Studio\C#\Lab 4\Bài 1\Bài 1\obj\Debug\Bài 1.pdb

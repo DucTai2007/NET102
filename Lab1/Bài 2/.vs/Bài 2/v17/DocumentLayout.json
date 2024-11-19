@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 1\\B\u00E0i 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4FA7B8-DD99-49DC-AC23-9E837F401837}|B\u00E0i 2\\B\u00E0i 2.csproj|d:\\l\u1EADp tr\u00ECnh\\visual studio\\c#\\lab 1\\b\u00E0i 2\\b\u00E0i 2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4FA7B8-DD99-49DC-AC23-9E837F401837}|B\u00E0i 2\\B\u00E0i 2.csproj|solutionrelative:b\u00E0i 2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4FA7B8-DD99-49DC-AC23-9E837F401837}|B\u00E0i 2\\B\u00E0i 2.csproj|D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 1\\B\u00E0i 2\\b\u00E0i 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4FA7B8-DD99-49DC-AC23-9E837F401837}|B\u00E0i 2\\B\u00E0i 2.csproj|solutionrelative:b\u00E0i 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 1\\B\u00E0i 2\\B\u00E0i 2\\Student.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 2\\Student.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 1\\B\u00E0i 2\\B\u00E0i 2\\Student.cs",
+              "RelativeToolTip": "B\u00E0i 2\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:52:30.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 1\\B\u00E0i 2\\B\u00E0i 2\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 2\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh\\Visual Studio\\C#\\Lab 1\\B\u00E0i 2\\B\u00E0i 2\\Program.cs",
+              "RelativeToolTip": "B\u00E0i 2\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:52:16.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
